@@ -1,6 +1,6 @@
 # projectcool
-Something
+Something and 4 files
 
-Имя        |     Курс
+Name       |     Course
 -----------|-------------
-Муслим     | Сверхразум
+Muslim     | Python Pro
