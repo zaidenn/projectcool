@@ -1,8 +1,6 @@
-# chagabot
-The best bot of all time in the universe.
+# projectcool
+Something
 
 Имя        |     Курс
 -----------|-------------
-Иван       |  Python Pro
-Алиакбар   |  Python Pro
 Муслим     | Сверхразум
